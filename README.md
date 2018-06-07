@@ -1,5 +1,3 @@
-It was setup with [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript)
-
 The project already includes a setup for react with redux and thunk.
 
 ## Task
